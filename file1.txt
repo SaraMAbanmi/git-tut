@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 line one from branch main
+=======
+line two for branch b1
+>>>>>>> b1
 
